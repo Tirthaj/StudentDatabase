@@ -6,7 +6,6 @@ import java.lang.reflect.Constructor;
 import java.time.LocalDate;
 import java.time.Period;
 
-
 @Entity
 @Table
 public class Student {
